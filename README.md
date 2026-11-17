@@ -16,3 +16,11 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/AssassinGhostYT).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Celisbeth y el Demonio de las Sombras
+
+A small 3D fantasy adventure that runs directly in the browser. Open `index.html` through a local web server to play. The game uses Three.js from jsDelivr.
+
+- **Move:** WASD or arrow keys (touch arrows on mobile)
+- **Cast a spell:** Space or the touch attack button
+- **Goal:** Defeat the slimes and goblins, then face the Demonio de las Sombras and collect crystals.
